@@ -1,11 +1,11 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Barbara Lima and my nickname is "Babillina2"!
 
-### 🔭 I’m currently working on update my skills
+### 🔭 I’m currently working on update my skills, learning new technologies and finding a middleware between my personal and professional life.
 ### 👯 I’m looking to collaborate on Rasec's IT 
 ### 😄 Pronouns: She - her
-
-# 📫 How to reach me:
+ 
+# 👀 How to reach me:
 
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -13,6 +13,8 @@
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ ![Snake animation](https://github.com/Babillina2/Babillina2/blob/output/github-contribution-grid-snake.svg)
  </div>
 
  ## 🌱 I’m currently learning all about:
@@ -29,4 +31,8 @@
 
 #  💬 Ask me about anything, and if I can help, it'll be my pleasure!
 
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Babillina2"/>
+<a href="https://github.com/Babillina2/github-readme-stats"/>
+</div>
 
