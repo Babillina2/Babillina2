@@ -29,7 +29,7 @@
 </div>
 
 
-#  💬 Ask me about anything, and if I can help, it'll be my pleasure!
+#  💬 Ask me about anything, and if I can help, it'll be my pleasure to help!
 # My Stats:
 
  [![Babillina2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babillina2)](https://github.com/Babillina2/github-readme-stats&show_icons=true&theme=dracula)
