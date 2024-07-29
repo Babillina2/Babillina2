@@ -4,7 +4,7 @@
 ### 🔭 I’m currently working on update my skills, learning new technologies and finding a middleware between my personal and professional life.
 ### 👯 I’m looking to collaborate on Rasec's IT 
 ### 😄 Pronouns: She - her
- 
+
 # 👀 How to reach me:
 
 <div>
@@ -30,5 +30,8 @@
 
 
 #  💬 Ask me about anything, and if I can help, it'll be my pleasure!
+# My Stats:
+
+ [![Babillina2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babillina2)](https://github.com/Babillina2/github-readme-stats&show_icons=true&theme=dracula)
 
 
