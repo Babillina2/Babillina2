@@ -14,7 +14,7 @@
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ![Snake animation](https://github.com/Babillina2/Babillina2/blob/output/github-contribution-grid-snake.svg)
+
  </div>
 
  ## 🌱 I’m currently learning all about:
@@ -31,8 +31,4 @@
 
 #  💬 Ask me about anything, and if I can help, it'll be my pleasure!
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=Babillina2"/>
-<a href="https://github.com/Babillina2/github-readme-stats"/>
-</div>
 
