@@ -2,7 +2,7 @@
 ## My name is Barbara Lima and my nickname is "Babillina2"!
 
 ### 🔭 I’m currently working on update my skills, learning new technologies and finding a middleware between my personal and professional life.
-### 👯 I’m looking to collaborate on Rasec's IT 
+### 👯 I’m colaborating with Rasec's IT 
 ### 😄 Pronouns: She - her
 
 # 👀 How to reach me:
